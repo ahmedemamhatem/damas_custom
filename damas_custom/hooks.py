@@ -213,5 +213,9 @@ app_license = "MIT"
 # --------------------------------
 
 # auth_hooks = [
-#	"damas_custom.auth.validate"
-# ]
+#	"damas
+
+fixtures = [
+    {"dt": "Custom Field"},
+    {"dt": "Property Setter"},
+]

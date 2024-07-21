@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include damas_custom *.css
+recursive-include damas_custom *.csv
+recursive-include damas_custom *.html
+recursive-include damas_custom *.ico
+recursive-include damas_custom *.js
+recursive-include damas_custom *.json
+recursive-include damas_custom *.md
+recursive-include damas_custom *.png
+recursive-include damas_custom *.py
+recursive-include damas_custom *.svg
+recursive-include damas_custom *.txt
+recursive-exclude damas_custom *.pyc
